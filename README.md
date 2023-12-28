@@ -20,7 +20,7 @@ npm start
 ```
 
 
-#### Screenshots
+### Screenshots
 
 ![image](https://github.com/wdotgonzales/Landing-Page-React-2/assets/98573039/7bf10021-2e90-4d02-a389-8761409e0bd0)
 
