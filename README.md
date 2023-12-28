@@ -1,4 +1,4 @@
-# Backroads App
+# Backroads Landing Page using React
 
 [Working Application - Deployed](https://backroads-app.netlify.app/)
 
