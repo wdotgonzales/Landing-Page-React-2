@@ -1,14 +1,16 @@
 # Backroads Landing Page using React
 
-  - run 'npm install'
-  - once the dependencies are installed run 'npm start'
 
-#### Create New React App
-
-- install
+- Clone this repository in your machine
 
 ```sh
-npx create-react-app@latest backroads-app
+git clone https://github.com/wdotgonzales/Landing-Page-React-2.git
+```
+
+- Install npm
+
+```sh
+npm install
 ```
 
 - run dev server
